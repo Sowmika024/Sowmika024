@@ -2,7 +2,7 @@
 
 
 
-Here are some ideas to get you started:
+
 -🎓I'm currently pursuing my final year B.Tech in Computer Science from Indian Institute Of Information Technology,Sricity,Andhra Pradesh.
 - 🎯 Interested in conrtibuting my knoledge in the field of software development.
 -currently honing my skills.
