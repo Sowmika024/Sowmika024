@@ -3,7 +3,7 @@
 
 
 
-🎓I'm pursuing my final year B.Tech in Computer Science from the Indian Institute Of Information Technology,Sricity, Andhra Pradesh.
+- 🎓 I'm pursuing my final year B.Tech in Computer Science from the Indian Institute Of Information Technology,Sricity, Andhra Pradesh.
 
 - 🎯 Interested in contributing my knowledge in the field of software development.
   
@@ -13,5 +13,5 @@
   
 - 😄 Pronouns: She/Her
   
--⚡ fact: Stars can't shine without darkness.✨
+- ⚡ fact: Stars can't shine without darkness.✨
 
