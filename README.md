@@ -1,7 +1,6 @@
 ### Hi there, I'm SOWMIKA!
 
 
-**Sowmika024/Sowmika024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -🎓I'm currently pursuing my final year B.Tech in Computer Science from Indian Institute Of Information Technology,Sricity,Andhra Pradesh.
