@@ -7,7 +7,7 @@
 
 - 🎯 Interested in contributing my knowledge in the field of software development.
   
--currently honing my skills.
+- 💻 currently honing my skills.
 
 - 📫 How to reach me: sowmika4878@gmail.com
   
