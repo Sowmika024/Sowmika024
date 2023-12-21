@@ -5,7 +5,7 @@
 
 - 🎓 I'm pursuing my final year B.Tech in Computer Science from the Indian Institute Of Information Technology,Sricity, Andhra Pradesh
 
-- 📍 Worked as Full Stack Developer at Progalaxy Elabs. Tech Used: PHP, PostgreSQL, React.
+
 
 - 🎯 Interested in contributing my knowledge in the field of software development.
   
